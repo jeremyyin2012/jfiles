@@ -1,6 +1,4 @@
-# jfiles
-Jeremy's files
-
+# Resume
 [Jeremy's resume][] 你将看到的简历是使用Markdown格式书写完成并由GitHub样式渲染，使用Typora软件进行撰写并输出PDF文档。
 
 ## 我为什么要用Markdown写简历
