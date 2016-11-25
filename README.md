@@ -1,5 +1,5 @@
 # About resume
-[Jeremy's resume][] 你将看到的简历是使用Markdown格式书写完成并由GitHub样式渲染，使用Typora软件进行撰写并输出PDF文档。
+[Resume of Jeremy][] 你将看到的简历是使用Markdown格式书写完成并由GitHub样式渲染，使用Typora软件进行撰写并输出PDF文档。
 
 ## 我为什么要用Markdown写简历
 
@@ -33,5 +33,5 @@
 
 
 
-[Jeremy's resume]: https://github.com/jeremyyin2012/resume/blob/master/Jeremy&#39;s%20resume.md
-[我的简历]: https://github.com/jeremyyin2012/resume/blob/master/Jeremy&#39;s%20resume.md
+[Resume of Jeremy]: https://github.com/jeremyyin2012/resume/blob/master/Resume%20of%20Jeremy.md
+[我的简历]: https://github.com/jeremyyin2012/resume/blob/master/Resume%20of%20Jeremy.md
