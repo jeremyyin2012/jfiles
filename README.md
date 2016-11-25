@@ -33,5 +33,5 @@
 
 
 
-[Jeremy's resume]: https://github.com/jeremyyin2012/jfiles/blob/master/Resume%20Jeremy.md
-[我的简历]: https://github.com/jeremyyin2012/jfiles/blob/master/Resume%20Jeremy.md
+[Jeremy's resume]: https://github.com/jeremyyin2012/resume/blob/master/Jeremy&#39;s%20resume.md
+[我的简历]: https://github.com/jeremyyin2012/resume/blob/master/Jeremy&#39;s%20resume.md
