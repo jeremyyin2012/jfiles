@@ -3,7 +3,7 @@
 主要负责电商业务数据处理与供应链管理；Excel熟练使用；熟悉Python编程
 
 > 男，27，175cm，本科，工作5年，深圳  
-> jeremyyin2012@gmail.com
+> jeremyyin2012@gmail.com  
 > 去GitHub在线查阅我的简历：http://t.cn/RfH1g1Q
 
 ## 工作经历
