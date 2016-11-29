@@ -4,6 +4,7 @@
 
 > 男，27，175cm，本科，工作5年，深圳  
 > jeremyyin2012@gmail.com
+> 去GitHub在线查阅我的简历：http://t.cn/RfH1g1Q
 
 ## 工作经历
 
@@ -121,7 +122,7 @@
 全职，深圳
 
 - Python工程师，10-15k，Python Scrapy爬虫、Tornado web、Django
-- 数据分析或运营，12-18k，Python pandas、Spark大数据分析与机器学习方向
+- 数据分析或运营，12-18k，Python Pandas、Spark大数据分析与机器学习(Machine Learning) 方向
 - 物流与供应链，14-25k，国际物流
 
 > 出于对工作效率与质量的追求，对工作所用的相关设备性能要求较高。
